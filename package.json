@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fatratra-png/Pizza/issues"
   },
-  "homepage": "https://github.com/fatratra-png/Pizza#readme"
+  "homepage": "https://github.com/fatratra-png/Pizza#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
